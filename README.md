@@ -11,4 +11,4 @@ I am a final year student at Vellore Institute of Technology, pursuing my Bachel
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anmol-patankar&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anmol-patankar&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=anmol-patankar&icon=0&color=0)]
