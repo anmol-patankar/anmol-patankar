@@ -3,7 +3,7 @@ I am a software engineer with a Bachelor of Technology in Computer Science and E
 I am currently working with ASP.NET development, along with SQL Server and the DotNet framework.
 
 
-I also love working on game development, and am open for discussions and collaborations. If you feel inclined to do so, feel free to shoot and email! 
+I also love working on game development, and am open for discussions and collaborations. If you feel inclined to do so, feel free to shoot an email! 
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anmol-patankar) 
