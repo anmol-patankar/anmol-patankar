@@ -5,7 +5,7 @@ I am currently working with ASP.NET development, along with SQL Server and the D
 
 I also love working on game development, and am open for discussions and collaborations. If you feel inclined to do so, feel free to shoot and email! 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anmol-patankar) 
 
 # 💻 Tech Stack:
